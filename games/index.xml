@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Guoboism</title>
+    <link>http://guoboism.github.io/games/</link>
+    <description>Recent content in Games on Guoboism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Dec 2015 11:16:03 +0800</lastBuildDate>
+    <atom:link href="http://guoboism.github.io/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Longest Night</title>
+      <link>http://guoboism.github.io/games/longestNight/</link>
+      <pubDate>Sun, 27 Dec 2015 11:16:03 +0800</pubDate>
+      
+      <guid>http://guoboism.github.io/games/longestNight/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/longestnight.gif&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/longestnight2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://finji.itch.io/longest-night&#34;&gt;Itch.io&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reap</title>
+      <link>http://guoboism.github.io/games/reap/</link>
+      <pubDate>Sun, 27 Dec 2015 11:16:03 +0800</pubDate>
+      
+      <guid>http://guoboism.github.io/games/reap/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/reap0.png&#34; alt=&#34;Image of Yaktocat&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/reap1.png&#34; alt=&#34;Image of Yaktocat&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A minilist pixel style survival game
+LD34 entry by daniel linssen&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://managore.itch.io/reap&#34;&gt;Itch.io&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
