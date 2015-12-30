@@ -3,8 +3,23 @@
   
   <url>
     <loc>http://guoboism.github.io/</loc>
-    <lastmod>2015-12-29T08:51:59+08:00</lastmod>
+    <lastmod>2015-12-30T08:54:09+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://guoboism.github.io/collect/computerOpenThatDoor/</loc>
+    <lastmod>2015-12-30T08:54:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guoboism.github.io/collect/justme/</loc>
+    <lastmod>2015-12-30T08:54:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guoboism.github.io/collect/labyrand/</loc>
+    <lastmod>2015-12-30T08:54:09+08:00</lastmod>
   </url>
   
   <url>
@@ -50,6 +65,16 @@
   <url>
     <loc>http://guoboism.github.io/my/alongnight/</loc>
     <lastmod>2015-08-28T08:59:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guoboism.github.io/my/perspect/</loc>
+    <lastmod>2015-07-30T08:54:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guoboism.github.io/my/specialAgent/</loc>
+    <lastmod>2015-04-30T08:54:09+08:00</lastmod>
   </url>
   
 </urlset>
