@@ -238,7 +238,7 @@ a.btn-back {
 
 .pagination
 {
-	width: 720px;
+	width: 100%; /*720px;*/
 	text-align: center;
 }
 
