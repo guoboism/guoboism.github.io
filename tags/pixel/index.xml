@@ -6,8 +6,28 @@
     <description>Recent content in Pixel on Guoboism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Jan 2016 08:45:53 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2016 07:48:17 +0800</lastBuildDate>
     <atom:link href="http://guoboism.github.io/tags/pixel/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Everything Building</title>
+      <link>http://guoboism.github.io/collect/TheEverythingBuilding/</link>
+      <pubDate>Thu, 07 Jan 2016 07:48:17 +0800</pubDate>
+      
+      <guid>http://guoboism.github.io/collect/TheEverythingBuilding/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/ele0.png&#34; alt=&#34;Img&#34; /&gt; &lt;img src=&#34;http://guoboism.github.io/images/ele1.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/ele2.png&#34; alt=&#34;Img&#34; /&gt; &lt;img src=&#34;http://guoboism.github.io/images/ele3.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/ele4.png&#34; alt=&#34;Img&#34; /&gt; &lt;img src=&#34;http://guoboism.github.io/images/ele5.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;An elevator game that you move people up and down by Kepab.&lt;/p&gt;
+
+&lt;p&gt;Each time game starts, the floors of the building will be random-generated, from hospital, restaurant, cemetry, circus to garage.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-34/?action=preview&amp;amp;uid=52430&#34;&gt;Ludum Dare Page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Conquerors</title>
