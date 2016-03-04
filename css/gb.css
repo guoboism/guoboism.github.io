@@ -81,6 +81,7 @@ html{
     max-width: 100%;
     height: auto;
     margin: 13px auto;
+	text-align:center;
 }
 
 .indexSum p{
