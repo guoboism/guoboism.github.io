@@ -3,8 +3,18 @@
   
   <url>
     <loc>http://guoboism.github.io/</loc>
-    <lastmod>2016-01-27T13:02:27+08:00</lastmod>
+    <lastmod>2016-03-04T08:59:36+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://guoboism.github.io/stuff/rose/</loc>
+    <lastmod>2016-03-04T08:59:36+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://guoboism.github.io/games/threeButtons/</loc>
+    <lastmod>2016-03-04T08:54:09+08:00</lastmod>
   </url>
   
   <url>
@@ -13,7 +23,7 @@
   </url>
   
   <url>
-    <loc>http://guoboism.github.io/my/stormSurf/</loc>
+    <loc>http://guoboism.github.io/games/stormSurf/</loc>
     <lastmod>2016-01-12T08:54:09+08:00</lastmod>
   </url>
   
@@ -113,7 +123,7 @@
   </url>
   
   <url>
-    <loc>http://guoboism.github.io/my/journeyofaball/</loc>
+    <loc>http://guoboism.github.io/games/journeyofaball/</loc>
     <lastmod>2015-12-28T08:59:36+08:00</lastmod>
   </url>
   
@@ -133,27 +143,27 @@
   </url>
   
   <url>
-    <loc>http://guoboism.github.io/my/alongnight/</loc>
+    <loc>http://guoboism.github.io/games/alongnight/</loc>
     <lastmod>2015-08-28T08:59:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://guoboism.github.io/my/perspect/</loc>
+    <loc>http://guoboism.github.io/games/perspect/</loc>
     <lastmod>2015-07-30T08:54:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://guoboism.github.io/my/princesslake/</loc>
+    <loc>http://guoboism.github.io/games/princesslake/</loc>
     <lastmod>2015-06-27T08:59:36+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://guoboism.github.io/my/tank/</loc>
+    <loc>http://guoboism.github.io/games/tank/</loc>
     <lastmod>2015-06-20T08:54:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://guoboism.github.io/my/specialAgent/</loc>
+    <loc>http://guoboism.github.io/games/specialAgent/</loc>
     <lastmod>2015-04-30T08:54:09+08:00</lastmod>
   </url>
   

@@ -6,8 +6,42 @@
     <description>Recent content on Guoboism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Jan 2016 13:02:27 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Mar 2016 08:59:36 +0800</lastBuildDate>
     <atom:link href="http://guoboism.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rose and Vagina</title>
+      <link>http://guoboism.github.io/stuff/rose/</link>
+      <pubDate>Fri, 04 Mar 2016 08:59:36 +0800</pubDate>
+      
+      <guid>http://guoboism.github.io/stuff/rose/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/Rose1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/Rose2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/Rose3.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/Rose4.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Interactive visual design as a present for a friend.&lt;/p&gt;
+
+&lt;p&gt;(Not availble yet&amp;hellip;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3 Buttons</title>
+      <link>http://guoboism.github.io/games/threeButtons/</link>
+      <pubDate>Fri, 04 Mar 2016 08:54:09 +0800</pubDate>
+      
+      <guid>http://guoboism.github.io/games/threeButtons/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/3B1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A mysterious minimalistic puzzle game.&lt;/p&gt;
+
+&lt;p&gt;A work in progress.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Long Long: A snake lies in the Past</title>
@@ -35,10 +69,10 @@
     
     <item>
       <title>Storm Surf</title>
-      <link>http://guoboism.github.io/my/stormSurf/</link>
+      <link>http://guoboism.github.io/games/stormSurf/</link>
       <pubDate>Tue, 12 Jan 2016 08:54:09 +0800</pubDate>
       
-      <guid>http://guoboism.github.io/my/stormSurf/</guid>
+      <guid>http://guoboism.github.io/games/stormSurf/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/surf1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/surf2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
@@ -63,11 +97,15 @@
       <pubDate>Thu, 07 Jan 2016 07:48:17 +0800</pubDate>
       
       <guid>http://guoboism.github.io/collect/TheEverythingBuilding/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/ele0.png&#34; alt=&#34;Img&#34; /&gt; &lt;img src=&#34;http://guoboism.github.io/images/ele1.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/ele0.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/ele2.png&#34; alt=&#34;Img&#34; /&gt; &lt;img src=&#34;http://guoboism.github.io/images/ele3.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/ele1.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/ele4.png&#34; alt=&#34;Img&#34; /&gt; &lt;img src=&#34;http://guoboism.github.io/images/ele5.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/ele2.png&#34; alt=&#34;Img&#34; /&gt;
+&lt;img src=&#34;http://guoboism.github.io/images/ele3.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/ele4.png&#34; alt=&#34;Img&#34; /&gt;
+&lt;img src=&#34;http://guoboism.github.io/images/ele5.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;An elevator game that you move people up and down by Kepab.&lt;/p&gt;
 
@@ -344,60 +382,6 @@
 &lt;p&gt;It also use the grow theme uniquely with terrain gradually emerge from water generating more gameplay (or change existing gameplay).&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-34/?action=preview&amp;amp;uid=48268&#34;&gt;Ludum Dare Page&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Super Puzzle Platformer Plus</title>
-      <link>http://guoboism.github.io/collect/superPuzzlePlatformer/</link>
-      <pubDate>Thu, 31 Dec 2015 08:35:50 +0800</pubDate>
-      
-      <guid>http://guoboism.github.io/collect/superPuzzlePlatformer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp3.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp4.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp5.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp6.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp7.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp8.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A super game that combines puzzle with platformer and it works by &lt;a href=&#34;http://andrewmorrish.net/&#34;&gt;morrish&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The game polished very well.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://andrew-morrish.itch.io/super-puzzle-platformer-plus&#34;&gt;Itch.io Page&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://store.steampowered.com//app/238530&#34;&gt;Steam Page for Deluxe Version&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Computer, Open That Door!</title>
-      <link>http://guoboism.github.io/collect/computerOpenThatDoor/</link>
-      <pubDate>Wed, 30 Dec 2015 08:54:09 +0800</pubDate>
-      
-      <guid>http://guoboism.github.io/collect/computerOpenThatDoor/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/codt1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/codt2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/codt4.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/codt4.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Play as the consisousness of a spaceship to kill all of its crews, just like the HAL in Space Odyssey 2001!&lt;/p&gt;
-
-&lt;p&gt;Incredible jam entry by Paul Lawitzki (@pLawitzki) and Ralf Zimmer (@Zaubersee)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://plaw.itch.io/computer-open-that-door&#34;&gt;Itch.io&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

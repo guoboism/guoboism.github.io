@@ -161,19 +161,7 @@ a.btn-back {
     color: rgba(0, 0, 0, 0.4);
 }
 
-.post-tag a {
-    padding: 0 10px;
-    border: 1px solid rgba(0, 0, 0, 0.3);
-    border-radius: 12px;
-    color: rgba(0, 0, 0, 0.3);
-    text-decoration: none;
-    transition: color,border-color,background-color 0.1s linear;
-}
 
-.post-tag a:hover {
-    background-color: rgba(0, 0, 0, 1.0);
-    color: rgba(255, 255, 255, 1.0);
-}
 
 .not-found h1 {
     color: rgba(0, 0, 0, 0.2);
@@ -305,16 +293,3 @@ article section img {
     margin: 13px auto;
 }
 
-.indexSum {
-    max-width: 100%;
-    height: auto;
-    margin: 13px auto;
-}
-
-.indexSum p {
-    max-width: 100%;
-}
-
-.indexSum img{
-    max-width: 100%;
-}

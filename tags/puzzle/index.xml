@@ -6,8 +6,22 @@
     <description>Recent content in Puzzle on Guoboism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2016 10:05:15 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Mar 2016 08:54:09 +0800</lastBuildDate>
     <atom:link href="http://guoboism.github.io/tags/puzzle/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3 Buttons</title>
+      <link>http://guoboism.github.io/games/threeButtons/</link>
+      <pubDate>Fri, 04 Mar 2016 08:54:09 +0800</pubDate>
+      
+      <guid>http://guoboism.github.io/games/threeButtons/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/3B1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A mysterious minimalistic puzzle game.&lt;/p&gt;
+
+&lt;p&gt;A work in progress.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Tough Love Machine</title>
@@ -67,10 +81,10 @@
     
     <item>
       <title>Perspect</title>
-      <link>http://guoboism.github.io/my/perspect/</link>
+      <link>http://guoboism.github.io/games/perspect/</link>
       <pubDate>Thu, 30 Jul 2015 08:54:09 +0800</pubDate>
       
-      <guid>http://guoboism.github.io/my/perspect/</guid>
+      <guid>http://guoboism.github.io/games/perspect/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pro1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pro2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
@@ -93,10 +107,10 @@
     
     <item>
       <title>Tank Spy</title>
-      <link>http://guoboism.github.io/my/tank/</link>
+      <link>http://guoboism.github.io/games/tank/</link>
       <pubDate>Sat, 20 Jun 2015 08:54:09 +0800</pubDate>
       
-      <guid>http://guoboism.github.io/my/tank/</guid>
+      <guid>http://guoboism.github.io/games/tank/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tank1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tank2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
@@ -119,10 +133,10 @@
     
     <item>
       <title>Special Agent</title>
-      <link>http://guoboism.github.io/my/specialAgent/</link>
+      <link>http://guoboism.github.io/games/specialAgent/</link>
       <pubDate>Thu, 30 Apr 2015 08:54:09 +0800</pubDate>
       
-      <guid>http://guoboism.github.io/my/specialAgent/</guid>
+      <guid>http://guoboism.github.io/games/specialAgent/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/ld32.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Entry for LD32&lt;/p&gt;

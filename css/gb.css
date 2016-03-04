@@ -1,0 +1,184 @@
+
+html{
+	height: 100%;
+}
+
+ body {
+	background-color: #222;	
+	height: 100%;
+}
+
+/*Home Page*/
+
+.container{
+	height: 100%;
+	/*min-height: 900px;*/
+	min-height: 100vh;
+}
+
+.outer {
+	height: 100%;
+	display: table;
+}
+
+.frontPageGroup{
+	padding-top:20px;
+	padding-bottom:40px;
+	
+	display: table-cell;
+    vertical-align: middle;
+}
+
+.frontPageRow{
+	display: inline-block;
+    width: 100%;
+	
+	position : static;
+	text-align: center;
+}
+
+.frontPageCell{
+	display: inline-block;
+	width:200px;
+	height:110px;
+	
+	text-align: center;
+	margin: 1em;
+	font-size: 18px;
+	color:#ccc;
+}
+
+.circleImg {
+	 margin: 0 auto;
+	 background-position: center;
+	 background-size: cover;
+	 width:  150px;
+	 height: 150px;
+	 border: 3px solid #222;
+	 border-radius: 100%;
+}
+
+/*Item Summary for list view */
+
+.common-site-header{
+	padding-top:40px;
+	padding-bottom:20px;
+	width: 100%;
+	text-align: center;
+}
+
+.article-list h1{
+	color:#bbb;
+	text-align:center;
+}
+
+.indexSumArticle{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+.indexSum {
+    max-width: 100%;
+    height: auto;
+    margin: 13px auto;
+}
+
+.indexSum p{
+	margin: 0 auto;
+	text-align: center;
+	width:  450px;
+	/*height: 450px;*/
+}
+
+.indexSum img{
+	object-fit: cover;
+	width:  450px;
+	height: 450px; /*cover*/
+	border-radius: 100%;
+}
+
+.indexSum h3{
+	text-align:center;
+}
+
+.indexSum h3 a{
+	color:#bbb;
+	text-decoration: none;
+}
+
+.indexSum h3 a:hover {
+    color: #eee;
+}
+
+.indexSumTags{
+	text-align:center;
+}
+
+
+.post-tag a {
+    padding: 0 10px;
+    border: 1px solid #aaa;
+    border-radius: 12px;
+    color: #bbb;
+    text-decoration: none;
+    transition: color,border-color 0.1s linear;
+}
+
+.post-tag a:hover {
+    color: #eee;
+}
+
+/* pagination */
+
+.pagiNum{
+	background-color:#bbb;
+	border-radius: 200px;
+	padding:10px;
+	padding-left:20px;
+	padding-right:20px;
+	
+	color:#222;
+	font-size :28px;
+	
+	width:50px;
+	height:50px;
+}
+.pagiNum-middle{
+	color:#777;
+	padding:18px;
+	
+	font-size :28px;
+}
+.pagiNum-inactive{
+	background-color:#777;
+	border-radius: 200px;
+	padding:10px;
+	padding-left:20px;
+	padding-right:20px;
+	
+	color:#222;
+	font-size :28px;
+	
+	min-width:50px;
+	min-height:50px;
+}
+
+/*Single content*/
+
+.singe-title{
+	text-align:center;
+	color:#bbb;
+}
+
+.singe-article{
+	text-align:center;
+}
+
+.empty-line{
+	padding-bottom:30px;
+	
+}
+
+.singe-article p{
+	color:#bbb;
+}
