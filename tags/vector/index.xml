@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vector on Guoboism</title>
-    <link>http://guoboism.github.io/tags/vector/</link>
+    <link>http://guoboism.github.io/tags/vector/index.xml</link>
     <description>Recent content in Vector on Guoboism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Jan 2016 09:24:59 +0800</lastBuildDate>
     <atom:link href="http://guoboism.github.io/tags/vector/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,6 +15,8 @@
       
       <guid>http://guoboism.github.io/collect/slashQuest/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/sq1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/sq2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
@@ -29,8 +30,7 @@
 
 &lt;p&gt;Also features colorful and breathing vector graphic.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-34/?action=preview&amp;amp;uid=64900&#34;&gt;Ludum Dare Page&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-34/?action=preview&amp;amp;uid=64900&#34;&gt;Ludum Dare Page&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -40,6 +40,8 @@
       
       <guid>http://guoboism.github.io/collect/regular%20human%20basketball/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/bball1.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/bball2.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
@@ -61,8 +63,7 @@
 
 &lt;p&gt;&lt;a href=&#34;http://powerhoof.itch.io/regular-human-basketball&#34;&gt;itch.io&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.powerhoof.com/regular-human-basketball/&#34;&gt;Official Site&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://www.powerhoof.com/regular-human-basketball/&#34;&gt;Official Site&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

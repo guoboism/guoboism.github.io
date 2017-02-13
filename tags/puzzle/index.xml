@@ -2,38 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Puzzle on Guoboism</title>
-    <link>http://guoboism.github.io/tags/puzzle/</link>
+    <link>http://guoboism.github.io/tags/puzzle/index.xml</link>
     <description>Recent content in Puzzle on Guoboism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Mar 2016 08:54:09 +0800</lastBuildDate>
     <atom:link href="http://guoboism.github.io/tags/puzzle/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>3 Buttons</title>
-      <link>http://guoboism.github.io/games/threeButtons/</link>
-      <pubDate>Fri, 04 Mar 2016 08:54:09 +0800</pubDate>
-      
-      <guid>http://guoboism.github.io/games/threeButtons/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p4_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A minimal puzzle game.&lt;/p&gt;
-
-&lt;p&gt;Explore the rules behind the three buttons.&lt;/p&gt;
-
-&lt;p&gt;Free to play, with built-in hints, 49 levels.&lt;/p&gt;
-
-&lt;p&gt;Available on AppStore&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/three-buttons/id1078188629?l=zh&amp;amp;ls=1&amp;amp;mt=8&#34;&gt;&lt;img src=&#34;http://guoboism.github.io/my/badge-01.png&#34; alt=&#34;Img&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p1_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p2_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p3_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Tough Love Machine</title>
@@ -42,6 +15,8 @@
       
       <guid>http://guoboism.github.io/collect/toughLovelMachine/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tough1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tough2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
@@ -57,8 +32,7 @@
 
 &lt;p&gt;There is a length limit for the arms&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://andrew-morrish.itch.io/tough-love-machine&#34;&gt;itch page&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://andrew-morrish.itch.io/tough-love-machine&#34;&gt;itch page&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -68,6 +42,8 @@
       
       <guid>http://guoboism.github.io/collect/snake%20bird/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/snakeA1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/snakeA2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
@@ -87,17 +63,18 @@
 
 &lt;p&gt;And great level design&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://noumenongames.itch.io/snakebird&#34;&gt;itch.io&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://noumenongames.itch.io/snakebird&#34;&gt;itch.io&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Perspect</title>
-      <link>http://guoboism.github.io/games/perspect/</link>
+      <link>http://guoboism.github.io/jams/perspect/</link>
       <pubDate>Thu, 30 Jul 2015 08:54:09 +0800</pubDate>
       
-      <guid>http://guoboism.github.io/games/perspect/</guid>
+      <guid>http://guoboism.github.io/jams/perspect/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pro1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pro2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
@@ -113,17 +90,18 @@
 
 &lt;p&gt;In this game, you try to find a view that fits the pattern that you may find in the scene.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.newgrounds.com/portal/view/660615&#34;&gt;NewGrounds&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://www.newgrounds.com/portal/view/660615&#34;&gt;NewGrounds&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tank Spy</title>
-      <link>http://guoboism.github.io/games/tank/</link>
+      <link>http://guoboism.github.io/jams/tank/</link>
       <pubDate>Sat, 20 Jun 2015 08:54:09 +0800</pubDate>
       
-      <guid>http://guoboism.github.io/games/tank/</guid>
+      <guid>http://guoboism.github.io/jams/tank/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tank1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tank2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
@@ -139,17 +117,18 @@
 
 &lt;p&gt;The puzzle is to find a view that you can attack enemies from behind.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.newgrounds.com/projects/games/876684&#34;&gt;New Grounds&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://www.newgrounds.com/projects/games/876684&#34;&gt;New Grounds&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Special Agent</title>
-      <link>http://guoboism.github.io/games/specialAgent/</link>
+      <link>http://guoboism.github.io/jams/specialAgent/</link>
       <pubDate>Thu, 30 Apr 2015 08:54:09 +0800</pubDate>
       
-      <guid>http://guoboism.github.io/games/specialAgent/</guid>
+      <guid>http://guoboism.github.io/jams/specialAgent/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/ld32.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Entry for LD32&lt;/p&gt;
 
@@ -157,8 +136,58 @@
 
 &lt;p&gt;Kill the target, not yourself&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-32/?action=preview&amp;amp;uid=24432&#34;&gt;LD32 Entry Page&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-32/?action=preview&amp;amp;uid=24432&#34;&gt;LD32 Entry Page&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>3uttons</title>
+      <link>http://guoboism.github.io/games/threeButtons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://guoboism.github.io/games/threeButtons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poem</title>
+      <link>http://guoboism.github.io/games/poem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://guoboism.github.io/games/poem/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p4_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;A minimal puzzle game.&lt;/p&gt;
+
+&lt;p&gt;Explore the rules behind the three buttons.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p1_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p2_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p3_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rice</title>
+      <link>http://guoboism.github.io/games/rice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://guoboism.github.io/games/rice/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p4_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;A minimal puzzle game.&lt;/p&gt;
+
+&lt;p&gt;Explore the rules behind the three buttons.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p1_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p2_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p3_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

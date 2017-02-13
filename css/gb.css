@@ -1,12 +1,157 @@
 
-html{
+
+/* New Home Page */
+
+ .body_white {
+	background-color: #E7E8E2;	
 	height: 100%;
 }
 
- body {
-	background-color: #222;	
+ .body_black {
+	background-color: #353535;	
 	height: 100%;
 }
+
+
+.d_logo{
+	text-align:  center;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+.d_logo img{
+	max-width : 220px;
+}
+
+.d_txt{
+	text-align: center;
+	font-family: "Changa One";
+	font-size: 5em;
+}
+
+.p_txt{
+	margin: 0px;
+	margin-top: -0.4em;
+	color: #353535;
+}
+
+.p_txt a{
+	color: #353535;
+}
+
+.p_under{
+	text-decoration: underline;
+}
+
+.d_bottom{
+	margin-top: 20%;
+	margin-bottom: 15%;
+	text-align: center;
+}
+
+.m_bottom{
+	margin-right: 2%;
+	margin-left: 2%;
+	max-width: 50px;
+	display: inline-block;
+}
+
+/*LIST VIEW*/
+
+.d_list_head{
+	margin-top: 10%;
+	text-align: center;
+}
+
+.d_list_head a img{
+	width:60%;
+	max-width: 500px;
+}
+
+.article-list p{
+	text-align: center;
+	font-family: "Changa One";
+	font-size: 5em;
+	color:#E7E8E2;
+	
+	margin-bottom: 15%;
+}
+
+/*Item Summary for list view */
+
+.common-site-header{
+	padding-top:40px;
+	padding-bottom:20px;
+	width: 100%;
+	text-align: center;
+}
+
+.indexSumArticle{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+
+.indexSum {
+    max-width: 100%;
+    height: auto;
+    margin: 13px auto;
+	text-align:center;
+}
+
+.indexSum p{
+	margin: 0 auto;
+	text-align: center;
+	width:  450px;
+	/*height: 450px;*/
+}
+
+.indexSum img{
+	object-fit: cover;
+	max-width:  160px;
+	width:40%;
+	border-radius: 10%;
+}
+
+.indexSum h3{
+	text-align:center;
+}
+
+.indexSum h3 a{
+	color:#bbb;
+	text-decoration: none;
+}
+
+.indexSum h3 a:hover {
+    color: #eee;
+}
+
+.indexSum h4 {
+    font-size: 1.5em;
+}
+
+.indexSumTags{
+	text-align:center;
+}
+
+
+.post-tag a {
+    padding: 0 10px;
+    border: 1px solid #aaa;
+    border-radius: 12px;
+    color: #bbb;
+    text-decoration: none;
+    transition: color,border-color 0.1s linear;
+}
+
+.post-tag a:hover {
+    color: #eee;
+}
+
+
+
+
+
+
 
 /*Home Page*/
 
@@ -52,82 +197,21 @@ html{
 	 margin: 0 auto;
 	 background-position: center;
 	 background-size: cover;
-	 width:  150px;
-	 height: 150px;
+	 width:  180px;
+	 height: 180px;
 	 border: 3px solid #222;
 	 border-radius: 100%;
 }
 
-/*Item Summary for list view */
-
-.common-site-header{
-	padding-top:40px;
-	padding-bottom:20px;
-	width: 100%;
-	text-align: center;
+.bottomDiv{
+	position: relative;
 }
 
-.article-list h1{
-	color:#bbb;
+.bottomLink{
+
 	text-align:center;
 }
 
-.indexSumArticle{
-	padding-top:50px;
-	padding-bottom:50px;
-}
-
-.indexSum {
-    max-width: 100%;
-    height: auto;
-    margin: 13px auto;
-	text-align:center;
-}
-
-.indexSum p{
-	margin: 0 auto;
-	text-align: center;
-	width:  450px;
-	/*height: 450px;*/
-}
-
-.indexSum img{
-	object-fit: cover;
-	width:  450px;
-	height: 450px; /*cover*/
-	border-radius: 100%;
-}
-
-.indexSum h3{
-	text-align:center;
-}
-
-.indexSum h3 a{
-	color:#bbb;
-	text-decoration: none;
-}
-
-.indexSum h3 a:hover {
-    color: #eee;
-}
-
-.indexSumTags{
-	text-align:center;
-}
-
-
-.post-tag a {
-    padding: 0 10px;
-    border: 1px solid #aaa;
-    border-radius: 12px;
-    color: #bbb;
-    text-decoration: none;
-    transition: color,border-color 0.1s linear;
-}
-
-.post-tag a:hover {
-    color: #eee;
-}
 
 /* pagination */
 
@@ -169,10 +253,22 @@ html{
 .singe-title{
 	text-align:center;
 	color:#bbb;
+	font-size: 2em;
+	margin-bottom: 0px;
+}
+
+.singe-subtitle{
+	text-align:center;
+	color:#bbb;
+	font-size: 1.2em;
+	margin-top: 0px;
+	margin-bottom: 4%;
+	
 }
 
 .singe-article{
 	text-align:center;
+	font-size: 1.2em;
 }
 
 .empty-line{
@@ -183,3 +279,11 @@ html{
 .singe-article p{
 	color:#bbb;
 }
+
+
+.single-content img{
+	width:60%;
+	max-width: 500px;
+	
+}
+

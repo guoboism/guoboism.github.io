@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sandbox on Guoboism</title>
-    <link>http://guoboism.github.io/tags/sandbox/</link>
+    <link>http://guoboism.github.io/tags/sandbox/index.xml</link>
     <description>Recent content in Sandbox on Guoboism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2016 10:05:15 +0800</lastBuildDate>
     <atom:link href="http://guoboism.github.io/tags/sandbox/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,6 +15,8 @@
       
       <guid>http://guoboism.github.io/collect/klangwelt/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/klangwelt1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/klangwelt2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
@@ -37,8 +38,7 @@
 
 &lt;p&gt;&lt;a href=&#34;http://gamejolt.com/games/klangwelt/114013&#34;&gt;GameJolt Page&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-34/?action=preview&amp;amp;uid=59750&#34;&gt;LudumDare Page&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-34/?action=preview&amp;amp;uid=59750&#34;&gt;LudumDare Page&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

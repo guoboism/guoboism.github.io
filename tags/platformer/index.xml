@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Platformer on Guoboism</title>
-    <link>http://guoboism.github.io/tags/platformer/</link>
+    <link>http://guoboism.github.io/tags/platformer/index.xml</link>
     <description>Recent content in Platformer on Guoboism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2016 10:05:15 +0800</lastBuildDate>
     <atom:link href="http://guoboism.github.io/tags/platformer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,6 +15,8 @@
       
       <guid>http://guoboism.github.io/collect/bitPit/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/bp1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/bp2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
@@ -31,8 +32,7 @@
 
 &lt;p&gt;&lt;a href=&#34;https://twitter.com/LogyBit&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://gamejolt.com/games/Bit+Pit/114478&#34;&gt;GameJolt Page&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://gamejolt.com/games/Bit+Pit/114478&#34;&gt;GameJolt Page&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -42,6 +42,8 @@
       
       <guid>http://guoboism.github.io/collect/fromTheDeep/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/img_ss1.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/img_ss2.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
@@ -59,8 +61,7 @@
 
 &lt;p&gt;It also use the grow theme uniquely with terrain gradually emerge from water generating more gameplay (or change existing gameplay).&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-34/?action=preview&amp;amp;uid=48268&#34;&gt;Ludum Dare Page&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-34/?action=preview&amp;amp;uid=48268&#34;&gt;Ludum Dare Page&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -70,6 +71,8 @@
       
       <guid>http://guoboism.github.io/collect/superPuzzlePlatformer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
@@ -91,8 +94,7 @@
 
 &lt;p&gt;&lt;a href=&#34;http://andrew-morrish.itch.io/super-puzzle-platformer-plus&#34;&gt;Itch.io Page&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://store.steampowered.com//app/238530&#34;&gt;Steam Page for Deluxe Version&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://store.steampowered.com//app/238530&#34;&gt;Steam Page for Deluxe Version&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -102,6 +104,8 @@
       
       <guid>http://guoboism.github.io/collect/justme/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/me1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/me2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
@@ -125,8 +129,7 @@
 
 &lt;p&gt;&lt;a href=&#34;http://adamgryu.itch.io/just-me-and-only-me-against-the-world&#34;&gt;Itch&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-34/?action=preview&amp;amp;uid=65705&#34;&gt;LD34&lt;/a&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-34/?action=preview&amp;amp;uid=65705&#34;&gt;LD34&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
