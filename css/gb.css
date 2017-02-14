@@ -13,21 +13,40 @@
 }
 
 
-.d_logo{
-	text-align:  center;
-	margin-top: 10%;
-	margin-bottom: 10%;
-}
-
-.d_logo img{
-	max-width : 220px;
-}
-
 .d_txt{
+	margin-top: 13%;
 	text-align: center;
-	font-family: "Changa One";
-	font-size: 5em;
+	font-family: 'Passion One', sans-serif;
+	/*font-weight: bold;*/
 }
+
+@media all and (min-width: 801px) {
+.d_txt{
+    font-size: 80px;
+  }	
+.p_bottom_link{
+    font-size: 1.5em;
+  }
+.p_bottom_title{
+		font-size: 3em;
+	}
+}
+
+@media all and (max-width: 800px) and (min-width: 50px) {
+.d_txt{
+    font-size: 14vw;
+  }
+	
+.p_bottom_link{
+    font-size: 2.5vw;
+  }
+	
+.p_bottom_title{
+	font-size: 6vw;
+  }
+}
+
+
 
 .p_txt{
 	margin: 0px;
@@ -43,48 +62,93 @@
 	text-decoration: underline;
 }
 
+
+/*Index page Buttom part*/
+
 .d_bottom{
 	margin-top: 20%;
 	margin-bottom: 15%;
-	text-align: center;
+	width: 100%;
+	height:10%;
+	text-align:center;
+	vertical-align:top;
 }
 
-.m_bottom{
-	margin-right: 2%;
-	margin-left: 2%;
-	max-width: 50px;
+.d_bottom_left{
+	text-align:right;
 	display: inline-block;
+	width: 40%;
 }
+
+.d_bottom_left img{
+	width:60%;
+	max-width : 160px;
+	vertical-align:bottom;
+	margin-right: 4%;
+}
+
+.d_bottom_right{
+	width: 50%;
+	display: inline-block;
+	text-align: left;
+	height: 100px;
+	vertical-align:top;
+	margin-top: 1%;
+}
+
+.p_bottom_title{
+	font-family: 'Passion One', sans-serif;
+	color:#353535;
+}
+
+.p_bottom_link{
+	font-family: 'Roboto Slab', serif;
+	color:#353535;
+}
+
+.d_bottom_right a{
+	color:#353535;
+}
+
+
+
+
+
 
 /*LIST VIEW*/
 
+.container{
+	text-align: center;
+}
+
 .d_list_head{
+	width:45%;
 	margin-top: 10%;
 	text-align: center;
+	display:inline-block;
 }
 
-.d_list_head a img{
-	width:60%;
-	max-width: 500px;
+.d_list_head a{
+	color:#353535;
+	text-decoration: none;
 }
 
-.article-list p{
-	text-align: center;
-	font-family: "Changa One";
-	font-size: 5em;
-	color:#E7E8E2;
-	
-	margin-bottom: 15%;
+
+.d_list_gb{
+	margin: 0px;
+	font-family: 'Passion One', sans-serif;
+	font-size: 4vw;
+	color:#353535;
 }
 
-/*Item Summary for list view */
-
-.common-site-header{
-	padding-top:40px;
-	padding-bottom:20px;
-	width: 100%;
-	text-align: center;
+.d_list_cate{
+	margin: 0px;
+	margin-top: -0.3em;
+	font-family: 'Passion One', sans-serif;
+	font-size: 8vw;
+	color:#353535;
 }
+
 
 .indexSumArticle{
 	padding-top:50px;
@@ -92,18 +156,35 @@
 }
 
 .indexSum {
-    max-width: 100%;
     height: auto;
     margin: 13px auto;
 	text-align:center;
+	width :40%;
 }
 
-.indexSum p{
-	margin: 0 auto;
-	text-align: center;
-	width:  450px;
-	/*height: 450px;*/
+.indexSum a{
+	text-decoration: none;
 }
+
+.indexSum a:hover{
+	color:#959595;
+}
+
+.p_li_title {
+	text-align: center;
+	font-family: 'Passion One', sans-serif;
+	font-size: 3em;
+	color:#353535;
+}
+
+.p_li_subtitle {
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+	font-size: 1.5em;
+	color:#353535;
+	margin-top: -0.5em;
+}
+
 
 .indexSum img{
 	object-fit: cover;
@@ -112,27 +193,10 @@
 	border-radius: 10%;
 }
 
-.indexSum h3{
-	text-align:center;
-}
-
-.indexSum h3 a{
-	color:#bbb;
-	text-decoration: none;
-}
-
-.indexSum h3 a:hover {
-    color: #eee;
-}
-
-.indexSum h4 {
-    font-size: 1.5em;
-}
 
 .indexSumTags{
 	text-align:center;
 }
-
 
 .post-tag a {
     padding: 0 10px;
@@ -151,66 +215,6 @@
 
 
 
-
-
-/*Home Page*/
-
-.container{
-	height: 100%;
-	/*min-height: 900px;*/
-	min-height: 100vh;
-}
-
-.outer {
-	height: 100%;
-	display: table;
-}
-
-.frontPageGroup{
-	padding-top:20px;
-	padding-bottom:40px;
-	
-	display: table-cell;
-    vertical-align: middle;
-}
-
-.frontPageRow{
-	display: inline-block;
-    width: 100%;
-	
-	position : static;
-	text-align: center;
-}
-
-.frontPageCell{
-	display: inline-block;
-	width:200px;
-	height:110px;
-	
-	text-align: center;
-	margin: 1em;
-	font-size: 18px;
-	color:#ccc;
-}
-
-.circleImg {
-	 margin: 0 auto;
-	 background-position: center;
-	 background-size: cover;
-	 width:  180px;
-	 height: 180px;
-	 border: 3px solid #222;
-	 border-radius: 100%;
-}
-
-.bottomDiv{
-	position: relative;
-}
-
-.bottomLink{
-
-	text-align:center;
-}
 
 
 /* pagination */
