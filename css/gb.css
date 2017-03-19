@@ -1,5 +1,5 @@
 
-
+/* =========================================================================================== */
 /* New Home Page */
 
  .body_white {
@@ -7,16 +7,12 @@
 	height: 100%;
 }
 
- .body_black {
-	background-color: #353535;	
-	height: 100%;
-}
 
 
 .d_txt{
-	margin-top: 13%;
+	margin-top: 30%;
 	text-align: center;
-	font-family: 'Passion One', sans-serif;
+	font-family: 'Bungee', sans-serif;
 	/*font-weight: bold;*/
 }
 
@@ -34,7 +30,7 @@
 
 @media all and (max-width: 800px) and (min-width: 50px) {
 .d_txt{
-    font-size: 14vw;
+    font-size: 10vw;
   }
 	
 .p_bottom_link{
@@ -73,55 +69,68 @@
 	vertical-align:top;
 }
 
-.d_bottom_left{
-	text-align:right;
-	display: inline-block;
-	width: 40%;
+.d_bottom_logo{
 }
 
-.d_bottom_left img{
-	width:60%;
+.d_bottom_logo img{
+	width:30%;
 	max-width : 160px;
-	vertical-align:bottom;
-	margin-right: 4%;
 }
 
-.d_bottom_right{
-	width: 50%;
-	display: inline-block;
-	text-align: left;
+.d_bottom_title{
 	height: 100px;
-	vertical-align:top;
-	margin-top: 1%;
 }
 
 .p_bottom_title{
-	font-family: 'Passion One', sans-serif;
+	font-family: 'Bungee', sans-serif;
 	color:#353535;
 }
 
 .p_bottom_link{
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Roboto', serif;
+	margin-bottom: -5px;
 	color:#353535;
 }
 
-.d_bottom_right a{
+.d_bottom_title a{
 	color:#353535;
 }
 
 
-
-
-
-
+/* =========================================================================================== */
 /*LIST VIEW*/
+
+
+@media all and (min-width: 801px) {
+	
+.d_list_cate{
+	font-size: 50px;
+}
+
+.d_list_home{
+	font-size: 30px;
+}
+
+}
+
+@media all and (max-width: 800px) and (min-width: 50px) {
+
+.d_list_cate{
+	font-size: 12vw;
+}
+
+.d_list_home{
+	font-size: 6vw;
+}
+
+}
 
 .container{
 	text-align: center;
 }
 
 .d_list_head{
-	width:45%;
+	width:100%;
 	margin-top: 10%;
 	text-align: center;
 	display:inline-block;
@@ -133,18 +142,16 @@
 }
 
 
-.d_list_gb{
-	margin: 0px;
-	font-family: 'Passion One', sans-serif;
-	font-size: 4vw;
-	color:#353535;
-}
-
 .d_list_cate{
 	margin: 0px;
 	margin-top: -0.3em;
-	font-family: 'Passion One', sans-serif;
-	font-size: 8vw;
+	font-family: 'Bungee', sans-serif;
+	color:#353535;
+}
+
+.d_list_home{
+	margin-bottom: 5vh;
+	font-family: 'Bungee', sans-serif;
 	color:#353535;
 }
 
@@ -171,15 +178,15 @@
 
 .p_li_title {
 	text-align: center;
-	font-family: 'Passion One', sans-serif;
-	font-size: 3em;
+	font-family: 'Bungee', sans-serif;
+	font-size: 2em;
 	color:#353535;
 }
 
 .p_li_subtitle {
 	text-align: center;
-	font-family: 'Roboto Slab', serif;
-	font-size: 1.5em;
+	font-family: 'Roboto', serif;
+	font-size: 1em;
 	color:#353535;
 	margin-top: -0.5em;
 }
@@ -209,6 +216,11 @@
 .post-tag a:hover {
     color: #eee;
 }
+
+
+
+
+
 
 
 
