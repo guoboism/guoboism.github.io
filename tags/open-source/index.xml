@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source on Guoboism</title>
+    <link>http://guoboism.github.io/tags/open-source/</link>
+    <description>Recent content in Open Source on Guoboism</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://guoboism.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bug Noticed</title>
+      <link>http://guoboism.github.io/design/bug_noticed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://guoboism.github.io/design/bug_noticed/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/Rose1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

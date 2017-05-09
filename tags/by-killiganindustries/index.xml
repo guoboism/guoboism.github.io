@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>By Killiganindustries on Guoboism</title>
-    <link>http://guoboism.github.io/tags/by-killiganindustries/index.xml</link>
+    <link>http://guoboism.github.io/tags/by-killiganindustries/</link>
     <description>Recent content in By Killiganindustries on Guoboism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://guoboism.github.io/tags/by-killiganindustries/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2016 08:45:53 +0800</lastBuildDate>
+    
+	<atom:link href="http://guoboism.github.io/tags/by-killiganindustries/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>ORB LORDS</title>
@@ -16,17 +19,7 @@
       <guid>http://guoboism.github.io/collect/orb/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/orb1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/orb2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/orb3.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/orb4.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A pixel pin-ball entry for Ludum Dare 34 by KilliganIndustries&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-34/?action=preview&amp;amp;uid=12204&#34;&gt;Ludum Dare Page&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

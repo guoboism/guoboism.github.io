@@ -2,70 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>By Andrew Morrish on Guoboism</title>
-    <link>http://guoboism.github.io/tags/by-andrew-morrish/index.xml</link>
+    <link>http://guoboism.github.io/tags/by-andrew-morrish/</link>
     <description>Recent content in By Andrew Morrish on Guoboism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://guoboism.github.io/tags/by-andrew-morrish/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2016 10:05:15 +0800</lastBuildDate>
+    
+	<atom:link href="http://guoboism.github.io/tags/by-andrew-morrish/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Tough Love Machine</title>
-      <link>http://guoboism.github.io/collect/toughLovelMachine/</link>
+      <link>http://guoboism.github.io/collect/toughlovelmachine/</link>
       <pubDate>Fri, 01 Jan 2016 10:05:15 +0800</pubDate>
       
-      <guid>http://guoboism.github.io/collect/toughLovelMachine/</guid>
+      <guid>http://guoboism.github.io/collect/toughlovelmachine/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tough1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tough2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tough3.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tough4.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tough5.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A puzzle where you need to make two hearts meet with stretched arms by Andrew Morrish&lt;/p&gt;
-
-&lt;p&gt;You use wasd and arrow keys to controls the hands&lt;/p&gt;
-
-&lt;p&gt;There is a length limit for the arms&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://andrew-morrish.itch.io/tough-love-machine&#34;&gt;itch page&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Super Puzzle Platformer Plus</title>
-      <link>http://guoboism.github.io/collect/superPuzzlePlatformer/</link>
+      <link>http://guoboism.github.io/collect/superpuzzleplatformer/</link>
       <pubDate>Thu, 31 Dec 2015 08:35:50 +0800</pubDate>
       
-      <guid>http://guoboism.github.io/collect/superPuzzlePlatformer/</guid>
+      <guid>http://guoboism.github.io/collect/superpuzzleplatformer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp3.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp4.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp5.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp6.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp7.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/spp8.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A super game that combines puzzle with platformer and it works by &lt;a href=&#34;http://andrewmorrish.net/&#34;&gt;morrish&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The game polished very well.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://andrew-morrish.itch.io/super-puzzle-platformer-plus&#34;&gt;Itch.io Page&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://store.steampowered.com//app/238530&#34;&gt;Steam Page for Deluxe Version&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -2,12 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jams on Guoboism</title>
-    <link>http://guoboism.github.io/jams/index.xml</link>
+    <link>http://guoboism.github.io/jams/</link>
     <description>Recent content in Jams on Guoboism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2015 08:59:36 +0800</lastBuildDate>
-    <atom:link href="http://guoboism.github.io/jams/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Apr 2017 08:54:09 +0800</lastBuildDate>
+    
+	<atom:link href="http://guoboism.github.io/jams/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Frag Saga</title>
+      <link>http://guoboism.github.io/jams/fragsaga/</link>
+      <pubDate>Thu, 20 Apr 2017 08:54:09 +0800</pubDate>
+      
+      <guid>http://guoboism.github.io/jams/fragsaga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moon Maze</title>
+      <link>http://guoboism.github.io/jams/moonmaze/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://guoboism.github.io/jams/moonmaze/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mountain</title>
+      <link>http://guoboism.github.io/jams/mountain/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://guoboism.github.io/jams/mountain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journey of a Ball</title>
+      <link>http://guoboism.github.io/jams/journeyofaball/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://guoboism.github.io/jams/journeyofaball/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>A Long Night</title>
@@ -17,27 +57,7 @@
       <guid>http://guoboism.github.io/jams/alongnight/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/long1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/long2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/long3.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/long4.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/long5.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/long6.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/long7.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;LD33 Entry&lt;/p&gt;
-
-&lt;p&gt;The game is about knocking police down before they find you.&lt;/p&gt;
-
-&lt;p&gt;Don&amp;rsquo;t worry, they are not killed&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-33/?action=preview&amp;amp;uid=24432&#34;&gt;LD33 Entry&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -48,54 +68,7 @@
       <guid>http://guoboism.github.io/jams/perspect/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pro1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pro2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pro3.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pro4.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pro5.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pro6.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Entry for Indieplay game jam 2015&lt;/p&gt;
-
-&lt;p&gt;In this game, you try to find a view that fits the pattern that you may find in the scene.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.newgrounds.com/portal/view/660615&#34;&gt;NewGrounds&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Princess Lake</title>
-      <link>http://guoboism.github.io/jams/princesslake/</link>
-      <pubDate>Sat, 27 Jun 2015 08:59:36 +0800</pubDate>
-      
-      <guid>http://guoboism.github.io/jams/princesslake/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pp0.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pp1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pp2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pp3.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pp4.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pp5.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/pp6.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Entry for &lt;a href=&#34;http://itch.io/jam/wag-challenge/rate/29695&#34;&gt;WAG Challenge&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A story about a lony boy who befriend with a princess lake&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;Yet, just finished a prologue.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://guoboism.itch.io/lakeprincessprologue&#34;&gt;Itch.io Page&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -106,113 +79,18 @@
       <guid>http://guoboism.github.io/jams/tank/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tank1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tank2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tank3.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tank4.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/tank5.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Entry for a game jam host by a Baidu Tieba group.&lt;/p&gt;
-
-&lt;p&gt;The game features a rotating camera like in Fez.&lt;/p&gt;
-
-&lt;p&gt;The puzzle is to find a view that you can attack enemies from behind.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.newgrounds.com/projects/games/876684&#34;&gt;New Grounds&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Special Agent</title>
-      <link>http://guoboism.github.io/jams/specialAgent/</link>
+      <link>http://guoboism.github.io/jams/specialagent/</link>
       <pubDate>Thu, 30 Apr 2015 08:54:09 +0800</pubDate>
       
-      <guid>http://guoboism.github.io/jams/specialAgent/</guid>
+      <guid>http://guoboism.github.io/jams/specialagent/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/ld32.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Entry for LD32&lt;/p&gt;
-
-&lt;p&gt;In this game, you are equipped with various weapons to aid your mission:&lt;/p&gt;
-
-&lt;p&gt;Kill the target, not yourself&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-32/?action=preview&amp;amp;uid=24432&#34;&gt;LD32 Entry Page&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://guoboism.github.io/jams/mountain/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://guoboism.github.io/jams/mountain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Journey of a Ball</title>
-      <link>http://guoboism.github.io/jams/journeyofaball/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://guoboism.github.io/jams/journeyofaball/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/3.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/4.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;LD34 Entry
-Theme picked Two Button Control&lt;/p&gt;
-
-&lt;p&gt;The game is about how a ball return to its owner from some post-apocalyptic ruins.
-But you do not control the ball, you control other things in the environment.
-Each level you control different things.&lt;/p&gt;
-
-&lt;p&gt;Or simply put, a adventure game with pinball gameplay&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;There is some end game cut scenes, so please try to beat the game:)&lt;/p&gt;
-
-&lt;p&gt;Controls:
-Z and M
-(R to reset the ball is struck somewhere unexpected)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://guoboism.github.io/stuff/Ball 1_2.zip&#34;&gt;Download(Github)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-34/?action=preview&amp;amp;uid=24432&#34;&gt;LD34 Entry&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Moon Maze</title>
-      <link>http://guoboism.github.io/jams/moonmaze/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://guoboism.github.io/jams/moonmaze/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p4_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;
-A minimal puzzle game.&lt;/p&gt;
-
-&lt;p&gt;Explore the rules behind the three buttons.&lt;/p&gt;
-
-&lt;p&gt;Free to play, with built-in hints, 49 levels.&lt;/p&gt;
-
-&lt;p&gt;Available on AppStore&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/three-buttons/id1078188629?l=zh&amp;amp;ls=1&amp;amp;mt=8&#34;&gt;&lt;img src=&#34;http://guoboism.github.io/my/badge-01.png&#34; alt=&#34;Img&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p1_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p2_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p3_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

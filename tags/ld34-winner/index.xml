@@ -2,35 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ld34 Winner on Guoboism</title>
-    <link>http://guoboism.github.io/tags/ld34-winner/index.xml</link>
+    <link>http://guoboism.github.io/tags/ld34-winner/</link>
     <description>Recent content in Ld34 Winner on Guoboism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://guoboism.github.io/tags/ld34-winner/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Jan 2016 09:24:59 +0800</lastBuildDate>
+    
+	<atom:link href="http://guoboism.github.io/tags/ld34-winner/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Slash Quest</title>
-      <link>http://guoboism.github.io/collect/slashQuest/</link>
+      <link>http://guoboism.github.io/collect/slashquest/</link>
       <pubDate>Wed, 06 Jan 2016 09:24:59 +0800</pubDate>
       
-      <guid>http://guoboism.github.io/collect/slashQuest/</guid>
+      <guid>http://guoboism.github.io/collect/slashquest/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/sq1.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/sq2.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/sq3.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/sq4.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/sq5.jpg&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A jam entry with a really nice two-button-control scheme for attack and move by Big Green Pillow ft Mgaia.&lt;/p&gt;
-
-&lt;p&gt;Also features colorful and breathing vector graphic.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-34/?action=preview&amp;amp;uid=64900&#34;&gt;Ludum Dare Page&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -2,61 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Games on Guoboism</title>
-    <link>http://guoboism.github.io/games/index.xml</link>
+    <link>http://guoboism.github.io/games/</link>
     <description>Recent content in Games on Guoboism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://guoboism.github.io/games/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://guoboism.github.io/games/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>3uttons</title>
-      <link>http://guoboism.github.io/games/threeButtons/</link>
+      <link>http://guoboism.github.io/games/threebuttons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://guoboism.github.io/games/threeButtons/</guid>
+      <guid>http://guoboism.github.io/games/threebuttons/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Poem</title>
+      <title>Cloud of Poems</title>
       <link>http://guoboism.github.io/games/poem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://guoboism.github.io/games/poem/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p4_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;A minimal puzzle game.&lt;/p&gt;
-
-&lt;p&gt;Explore the rules behind the three buttons.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p1_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p2_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p3_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rice</title>
-      <link>http://guoboism.github.io/games/rice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://guoboism.github.io/games/rice/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p4_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;A minimal puzzle game.&lt;/p&gt;
-
-&lt;p&gt;Explore the rules behind the three buttons.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p1_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p2_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/my/p3_iphon6.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;</description>
+      <description>direct link</description>
     </item>
     
   </channel>

@@ -1,8 +1,9 @@
 main {
-    max-width: 750px;
+  /*  max-width: 750px;*/
+	
     word-wrap: break-word;
 }
-
+ 
 /* Header */
 
 .global-header {

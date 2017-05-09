@@ -1,4 +1,4 @@
-
+sss
 /* =========================================================================================== */
 /* New Home Page */
 
@@ -12,8 +12,9 @@
 .d_txt{
 	margin-top: 30%;
 	text-align: center;
-	font-family: 'Bungee', sans-serif;
+	font-family: 'Titillium Web', sans-serif;
 	/*font-weight: bold;*/
+	line-height: 100%;
 }
 
 @media all and (min-width: 801px) {
@@ -30,7 +31,7 @@
 
 @media all and (max-width: 800px) and (min-width: 50px) {
 .d_txt{
-    font-size: 10vw;
+    font-size: 10vw; 
   }
 	
 .p_bottom_link{
@@ -41,21 +42,24 @@
 	font-size: 5vw;
   }
 }
-
-
-
-.p_txt{
-	margin: 0px;
-	margin-top: -0.4em;
+ 
+ 
+.p_txt{ 
+	margin-top: -0.5em; 
 	color: #353535;
+	display: inline; 
+	height : 0.6em; 
+	padding:-5px;
+	
 }
-
+ 
 .p_txt a{
 	color: #353535;
 }
 
 .p_under{
 	text-decoration: underline;
+	
 }
 
 
@@ -82,7 +86,7 @@
 }
 
 .p_bottom_title{
-	font-family: 'Bungee', sans-serif;
+	font-family: 'Roboto', sans-serif;
 	color:#353535;
 }
 
@@ -97,8 +101,14 @@
 }
 
 
+
+
+
+
+
 /* =========================================================================================== */
 /*LIST VIEW*/
+
 
 
 @media all and (min-width: 801px) {
@@ -145,13 +155,13 @@
 .d_list_cate{
 	margin: 0px;
 	margin-top: -0.3em;
-	font-family: 'Bungee', sans-serif;
+	font-family: 'Titillium Web', sans-serif;
 	color:#353535;
 }
 
 .d_list_home{
 	margin-bottom: 5vh;
-	font-family: 'Bungee', sans-serif;
+	font-family: 'Titillium Web', sans-serif;
 	color:#353535;
 }
 
@@ -165,7 +175,7 @@
     height: auto;
     margin: 13px auto;
 	text-align:center;
-	width :40%;
+	width :100%;
 }
 
 .indexSum a{
@@ -193,10 +203,10 @@
 
 
 .indexSum img{
+	text-align: center;
 	object-fit: cover;
-	max-width:  160px;
-	width:40%;
-	border-radius: 10%;
+	min-width:  160px;
+	width:80%; 
 }
 
 
@@ -299,6 +309,5 @@
 .single-content img{
 	width:60%;
 	max-width: 500px;
-	
 }
 

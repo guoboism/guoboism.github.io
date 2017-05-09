@@ -2,39 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>By Scorched on Guoboism</title>
-    <link>http://guoboism.github.io/tags/by-scorched/index.xml</link>
+    <link>http://guoboism.github.io/tags/by-scorched/</link>
     <description>Recent content in By Scorched on Guoboism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://guoboism.github.io/tags/by-scorched/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2015 08:35:50 +0800</lastBuildDate>
+    
+	<atom:link href="http://guoboism.github.io/tags/by-scorched/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>From the Deep</title>
-      <link>http://guoboism.github.io/collect/fromTheDeep/</link>
+      <link>http://guoboism.github.io/collect/fromthedeep/</link>
       <pubDate>Thu, 31 Dec 2015 08:35:50 +0800</pubDate>
       
-      <guid>http://guoboism.github.io/collect/fromTheDeep/</guid>
+      <guid>http://guoboism.github.io/collect/fromthedeep/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/img_ss1.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/img_ss2.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/img_ss3.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/img_ss4.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://guoboism.github.io/images/img_ss5.png&#34; alt=&#34;Img&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In this game you reach a target place and then the island would rise a bit from water.&lt;/p&gt;
-
-&lt;p&gt;Control scheme, left and right to move left and right, double tap to jump to move in that direction.&lt;/p&gt;
-
-&lt;p&gt;As ld34 entry, this game explores (successfully) adding more action under the two-button-limitation.&lt;/p&gt;
-
-&lt;p&gt;It also use the grow theme uniquely with terrain gradually emerge from water generating more gameplay (or change existing gameplay).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ludumdare.com/compo/ludum-dare-34/?action=preview&amp;amp;uid=48268&#34;&gt;Ludum Dare Page&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
